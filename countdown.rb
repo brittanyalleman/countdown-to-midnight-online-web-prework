@@ -5,4 +5,3 @@ def countdown
   x -= 1
   puts "HAPPY NEW YEAR!"
 end
-
