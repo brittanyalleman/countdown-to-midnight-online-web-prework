@@ -1,6 +1,6 @@
 x = 12:00
-while x < 12:00
-  puts "#{x} counting down "
+while x < 12
+  puts "#{x} o'clock "
   x -= 1
 end
 
