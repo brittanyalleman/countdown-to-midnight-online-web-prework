@@ -1,6 +1,6 @@
 def countdown
-  x = 12
-while x < 12
+  x = 10
+while x < 12:00
   puts "#{x} "
   x -= 1
   puts "HAPPY NEW YEAR!"
