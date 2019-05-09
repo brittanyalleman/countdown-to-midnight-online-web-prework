@@ -1,5 +1,6 @@
-x = 12
-while x < 12
-  puts "#{x} o'clock "
+x = 10
+while x < 10
+  puts "#{x} "
   x -= 1
+  puts "HAPPY NEW YEAR!"
 end
